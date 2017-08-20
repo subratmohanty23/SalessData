@@ -11,6 +11,7 @@ public class Main {
 	public static void displaySetting(){
 		System.out.println("Hello this sales Application");
 		System.out.println("this is Data");
+		System.out.println("------Test2------------");
 	}
 
 }
